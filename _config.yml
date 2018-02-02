@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: brailyn@johnsgaard.ca
-  facebook: 
+  facebook: mrbrailyn
   flickr:
   github: brailyn
   instagram: mrbrailyn
   linkedin: brailyn
-  pinterest:
+  pinterest: mrbrailyn
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: mrbrailyn
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 100413069863613427355 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
